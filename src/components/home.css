@@ -1,0 +1,118 @@
+* {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  
+  table {
+    border: 1px solid #22dada;
+    width: 75%;
+    margin: 5px auto 20px;
+    color: #ffffff;
+    background-color: #006565;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #ccd8d8;
+  }
+  
+  td {
+    border: 1px solid #22dada;
+    width: 10%;
+    padding: 5px;
+    text-align: center;
+  }
+  
+  tr {
+    display: table-row;
+  }
+  
+  tr:hover {
+    background-color: #008989;
+  }
+  
+  tbody {
+    display: table-row-group;
+  }
+  
+  /* buttons */
+  button {
+    padding: 10px;
+    border-radius: 4px;
+    margin: 15px;
+    margin-left: 12.5%;
+    background-color: #008989;
+    color: #ffffff;
+    height: 50px;
+  }
+  
+  #nav {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  p {
+    padding: 20px;
+    border: 1px solid #22dada;
+    width: 65%;
+    margin: auto;
+    color: #ffffff;
+    background-color: #006565;
+  }
+  
+  h4 {
+    padding: 20px;
+    border: 1px solid #22dada;
+    border-bottom: none;
+    width: 65%;
+    margin: auto;
+    color: #ffffff;
+    background-color: #003939;
+  }
+  
+  #salaryFilter{
+    margin:25px;
+    padding: 15px;
+  }
+  
+  #departmentElement {
+    padding: 15px;
+    margin:25px;
+    display: block;
+    width: 30%;
+    
+  }
+  
+ 
+  
+  
+  #personElement{
+    height: 20px;
+    margin:25px;
+    padding: 20px;
+  }
+  
+  #addNewEmployee{
+    margin:25px;
+    padding: 15px;
+  }
+  
+  #newEmployeeForm{
+    height: 70px;
+    width:75%;
+    margin:auto;
+    background-color:#003939;
+    padding: 10px;
+    display:block;
+  }
+  
+  
+
+  
+  
+  #wynagrodzenia{
+    margin-left: 12.5%;
+  }
+  

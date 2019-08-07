@@ -1,0 +1,5 @@
+export const SEARCH_EMPLOYEE = "ADD_TODO";
+export const SET_FILTER = "SET_FILTER";
+export const ADD_EMPLOYEE = 'ADD_EMPLOYEE';
+export const FILTER_BY_SALARY = 'FILTER_BY_SALARY';
+export const FILTER_BY_DEPARTMENT = 'FILTER_BY_DEPARTMENT';
